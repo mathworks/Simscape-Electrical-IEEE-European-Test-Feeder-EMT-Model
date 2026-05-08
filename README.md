@@ -2,7 +2,7 @@
 
 Version 1.0.0
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/https://github.com/mathworks/Simscape-Electrical-IEEE-European-Test-Feeder-EMT-Model)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Simscape-Electrical-IEEE-European-Test-Feeder-EMT-Model)
 
 ## Introduction
 
