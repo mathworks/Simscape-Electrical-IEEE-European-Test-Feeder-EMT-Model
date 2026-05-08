@@ -58,15 +58,15 @@ You must first download the data for the IEEE European Test Feeder from the foll
 
 Navigate to 2015 Test Feeder Cases and click on European Low Voltage Test Feeder to download 
 a .zip file of the network data and benchmark results. Unzip the file in
-the benchmark_data directory. This will add a directory called European_LV_Test_Feeder_v2.
+the main directory. This will add a directory called European_LV_Test_Feeder_v2.
 
 Open `IEEE_European_EMT.prj` in MATLAB. Once the project is installed, add the
 European_LV_Test_Feeder_v2 directory to the project path.
 
 To build and run the benchmark model, navigate to the create_benchmark_model
 directory and open and run create_IEEE_European_EMT_MR.mlx for a build using
-model reference, and opene and run create_IEEE_European_EMT_SR.mlx for a build
-using subsystem reference.If using MATLAB Online, we recommend using the 
+model reference, and open and run create_IEEE_European_EMT_SR.mlx for a build
+using subsystem reference. If using MATLAB Online, we recommend using the 
 subsystem reference model.
 
 ## How to Use in MATLAB Online
