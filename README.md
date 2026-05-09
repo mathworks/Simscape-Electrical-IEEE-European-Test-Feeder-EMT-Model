@@ -60,7 +60,7 @@ Navigate to 2015 Test Feeder Cases and click on European Low Voltage Test Feeder
 a .zip file of the network data and benchmark results. Unzip the file in
 the main directory. This will add a directory called European_LV_Test_Feeder_v2.
 
-Open `IEEE_European_EMT.prj` in MATLAB. Once the project is installed, add the
+Open `Simscape_Electrical_IEEE_European.prj` in MATLAB. Once the project is installed, add the
 European_LV_Test_Feeder_v2 directory to the project path.
 
 To build and run the benchmark model, navigate to the create_benchmark_model
