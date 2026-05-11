@@ -10,7 +10,7 @@ This project provides code and resources that programmatically builds an EMT mod
 European Test Feeder. An image of the network is shown below. Two model builds are available.
 One builds the network as 4 segments using model reference. With model reference, we can build
 the segments as executable MEX files that do not need to be recompiled. The other builds the
-network as 4 segments using subsystem reference. With subsstem reference, we can use Fast-Restart
+network as 4 segments using subsystem reference. With subsystem reference, we can use Fast-Restart
 in a given simulation session to avoid model re-compilation when simulating many scenarios.
 
 <img src="images/IEEE_European_LV.png"
